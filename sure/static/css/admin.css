@@ -1,0 +1,25 @@
+#header {
+    height: 50px;
+    background: linear-gradient(#212529,#1a497a);
+    color: #fff;
+}
+
+#branding h1 {
+    color: #fff;
+}
+a:link,
+a:visited {
+    color: #1a497a;
+}
+
+div.breadcrumbs {
+    color: #212529;
+}
+
+div.breadcrumbs a {
+    color: #212529;
+}
+
+.module h2, .module caption, .inline-group h2 {
+    background: #1a497a;
+}
